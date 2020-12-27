@@ -1,6 +1,7 @@
 # Speedrun Strats
 
 - 1.16.1 IF YOU DON'T WANT TO GET RUN OVER BY PIGLIN BRUTES
+- Go to k4yfour's twitch for speedrun info!
 
 ## Overworld
 - Village
@@ -196,7 +197,9 @@
 
 
 ## Nether
-- Find gold in bastion
+- Where do you go?
+  - Always try to go positive positive
+  - The bastion is usually in a different quadrant than the fortress
 - Navigating Fortresses
   - Staircase w/out warts = go up the stairse
   - Staricase w/ warts = go down the staircase and go straight
@@ -204,6 +207,7 @@
     - Don't go behind them
   - Go straight when you're standing in balcony  
 - Bastion Remnants
+  - Find gold in bastion
   - Treasure Room
     - Appearance
       - Top w/ hole
