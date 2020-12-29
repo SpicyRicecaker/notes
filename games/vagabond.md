@@ -53,3 +53,8 @@
   - Yoshioka Denshichiro
     - Younger brother Seijuro
   - Ueda Ryohei
+- Hozoin Temple
+  - In Kofukuji in Nara
+  - Ferocious spear technique by monks
+## Log
+Tue 12/29/2020 - Ch. 36
