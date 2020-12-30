@@ -1,8 +1,17 @@
 mod generics;
+mod lifetimes;
 
 use generics::do_stuff;
+use lifetimes::get_longest_string;
 fn main() {
-    do_stuff();
+    // Create two strings
+    let longest;
+    {
+        let str1 = String::from("123456");
+        let str2 = String::from("12345678");
+        longest = String::from(get_longest_string(&str1, &str2));
+    }
+    println!("{}", longest);
     // let number_list = vec![34, 50, 25, 100, 65];
     // let char_list = vec!["121", "129", "3"];
 

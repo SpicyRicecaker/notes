@@ -1,5 +1,4 @@
 # Vagabond
-
 ## Main Characters
 - Honiden Matahachi
   - Has a fiancee back at home, otsu
@@ -12,6 +11,7 @@
 - Otsu
   - Honiden Matahachi's former fiance
 - Miyamoto Musashi
+  - The man who follows the way of the sword, the man who loves otsu, and...
 
 ## Side Characters
 - Tsujikaze Tenma
@@ -20,6 +20,7 @@
 - Tsujikaze Kohei
   - Tenma's younger brother
   - Came from the village of fuwa
+  - Took on the name Shishido Baiken, uses the Chain and Sickle
 - Akemi
   - Thief
 - Oko
@@ -40,6 +41,53 @@
   - Looks up to Miyamoto Musashi
 - Yagyu Sekishusai
 - Gion Toji
+  - Assassin of the yoshioka school, wanting to kill Miyamoto Musashi
+- Hozoin Inei
+  - Old man over 80 years old
+  - Many reflect Miyamoto's bloodlust, turning enemies against him
+  - You don't know what strength is until you stand at the top
+  - Miyamoto Musashi projects his life force behind every swing
+  - Soul vs body, some are disciplined in the body yet they lack in the discipline of the soul, the body may heal but the soul remembers
+  - Unease, weakness, desire, "since ancient times, people have meditated under raging waterfalls to rid themselves of such toughts"
+- Inshun
+  - Second generation master of the hozoin spear technique
+  - Was originally shinnosuke
+- Yagyu Sekishusai Muneyoshi
+  - of the Shinkage style of swordsmanship
+  - Takes care of otsu
+- Kamiizumi ise no kami
+  - The master swordsman
+- Sasaki Kojiro
+  - Chujo style of swordsmanship
+  - Kanemaki Jisai's disciple
+    - Toda seigen variation of chujo styleo
+    - Toda mondonosho grandson of toda seigen
+    - Ito ittosai studied under him
+- Ito Ittosai
+  - #1 Disciple of Kanemaki Jisai
+  - Founder of itto-ryu style of swordfighting
+- Akakabe Yasoma
+  - Ronin from gamo
+- Shishido Baiken
+  - Master of the Chain and Sickle
+- Kitabatake Tomonori
+  - Master swordsman of Ise
+  - Learned from Tsukahara Bokuden
+  - One of the two supreme masters in the east
+  - Had a son named Hikoshiro that wasn't talented enough to inherit styles, Bokuden didn't flourish
+- Kitabatake Tomonori
+  - Succeeded in using the Bokuden style and it flourished in Ise
+- Takura Sobe
+  - Master of takakura style
+  - Lost to Miyamoto Musashi
+- Rindo
+  - Girl that's next to Tsujikaze Tenma, who's the Chain and Sickle
+- Kanemaki Jisai
+  - Chujo Ryu style
+- Kusanagi Tenki
+  - Disciple of Kanemaki Jisai
+- Takada Sannojo
+  - 
 ## Places
 - Miyamoto
   - Shinmen Takezo's hometown
@@ -56,5 +104,24 @@
 - Hozoin Temple
   - In Kofukuji in Nara
   - Ferocious spear technique by monks
+  - Agon
+    - Some cool bald spear dude
+- Yagyu
+  - Honda Tomimasa
+    - Chief Retainer of the Yuki clan of echizen
+  - Shoda Kizaemon
+    - Senior disciples of the yagyu
+  - Murata Yozo
+    - Stable man
+  - Debuchi Magobe
+    - Foot soldier
+  - Kimura Sukekuro
+    - Book Keeper
+  - Hyogonosuke
+    - Grandson of Yagyu Sekishusai Muneyoshi
+    - To be successor of the Shinkage style
+    - Wants to keep on travelling Musha Shugyo, the warriors pilgramage
+- Sangenin Temple
+  - Men of the sword came to examine their souls
 ## Log
 Tue 12/29/2020 - Ch. 36

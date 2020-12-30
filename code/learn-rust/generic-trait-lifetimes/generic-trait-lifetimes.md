@@ -102,3 +102,31 @@
 ### Lifetime Syntax
 - Lifetime generics have a `'` right after the reference, along with some random variable after, just like generics -> `&'a`
 - You can then indicate that two or more references will live as long as the generic lifetime that you assigned them, just like generics
+- Rust doesn't need help evaluating things inside a function, but outside of a function there's no way to infer lifetimes, thus rust requires you to manually set it
+- Lifetimes are about connecting the lifetimes of parameters together so the compiler can work its magic
+
+### Lifetimes in Structs
+- Structs can also hold references rather than being forced to own all its characteristics
+- The syntax for creating a struct is like generics but with a `'` in front of the parameter
+  - ```rust
+      struct Book<'a> {
+        content: &'a str;
+        pages: i32
+      }
+    ```
+### Lifetime Ellision Rules
+- Some functions don't require lifetimes because the function may follow a common programming pattern, and thus, was added into the compiler
+- *Input lifetimes* deal with lifetimes on parameters
+  1. Each reference gets its own lifetime parameter
+- *Output lifetimes* deal with lifetimes on return values
+  2. If there is one input parameter, the output parameter copies the lifetime of the input
+  3. If there is a `&self` or `&mut self` in the parameters list then all the output lifetimes copy the lifetime of `self`
+
+### Lifetimes in Methods
+- Usually in methods the three rules take care of everything
+
+### Static Lifetimes
+- ```rust
+    let &'static example = "123123123";
+  ```
+- The `&'static` means that `example` is accessible and lives through the whole program
