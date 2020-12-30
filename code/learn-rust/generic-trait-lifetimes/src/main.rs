@@ -1,9 +1,17 @@
+mod generics;
+
+use generics::do_stuff;
 fn main() {
-    let number_list = vec![34, 50, 25, 100, 65];
+    do_stuff();
+    // let number_list = vec![34, 50, 25, 100, 65];
+    // let char_list = vec!["121", "129", "3"];
 
-    let largest = get_largest(&number_list);
+    // let largest = get_largest(&number_list);
+    // let largest_char = get_largest(&char_list);
 
-    println!("The largest number is {}", largest);
+    // println!("The largest number is {}", largest);
+    // println!("The largets char is {}", largest_char);
+
     // let bob = ipAddress { x: 1.1, y: 1.2 };
     // let blue = ipAddress { x: '1', y: '2' };
 }
@@ -37,6 +45,7 @@ fn get_largest<T: PartialOrd + Copy>(list: &[T]) -> T {
     let mut largest = list[0];
 
     // Since list is an array of references, we can just return a reference
+    // If we want to return a value, we have to add both the `PartialOrd` and `Copy` trait
     for &number in list {
         if number > largest {
             largest = number;

@@ -77,3 +77,28 @@
   - e.g. `fn return_stuff() -> impl Summary`
   - However, this doesn't work with multiple types
   
+### Type-Checking Traits
+- You can use traits to conditionally implement methods
+  - ```rust
+      impl<T: Display> someType<T> {
+        // Code here
+      }
+    ```
+- And also only implement methods for specific traits
+  - ```rust
+      impl<T: Display + Clone> doStuff for Type<T> {
+        
+      }
+    ```
+
+## Lifetimes
+### References
+- Most times references have implicit or inferred lifetimes
+- Lifetimes are the time that a reference is valid for
+
+### Borrow Checker
+- Rust compares the scope of the two variables, if one is bigger than the other and the bigger is used as a reference then the expression is valid
+
+### Lifetime Syntax
+- Lifetime generics have a `'` right after the reference, along with some random variable after, just like generics -> `&'a`
+- You can then indicate that two or more references will live as long as the generic lifetime that you assigned them, just like generics
