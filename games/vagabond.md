@@ -5,13 +5,17 @@
   - Fears spending the rest of his life in Takezo's shadow
   - Ran away with Akemi & Oko
   - The thieves became prostitutes, and Honiden is now living off of their pay, Oko hates him
+  - Took the name of Sasaki Kojiro
+  - "Losers take their losses with them, but they still have their lives. They have to keep going, too!"
 - Shinmen Takezo
   - "The beast"
   - Died in the town of Miyamoto, renamed Miyamoto Musashi
 - Otsu
   - Honiden Matahachi's former fiance
 - Miyamoto Musashi
-  - The man who follows the way of the sword, the man who loves otsu, and...
+  - The man who follows the way of the sword, the man who loves otsu
+  - Believes: Cut down all those who may be stronger than you, to earn the right to be called invincible
+    - Carves out demons
 
 ## Side Characters
 - Tsujikaze Tenma
@@ -23,9 +27,12 @@
   - Took on the name Shishido Baiken, uses the Chain and Sickle
 - Akemi
   - Thief
+  - Relationship with Yoshioka Seijuro
 - Oko
   - Tenma wanted to marry her after killing her husband
   - Relationship with Matahachi
+    - They broke up 
+  - Believes Akemi could be married into the Yoshioka family
 - Granny Honiden
   - Grandmother of Honiden Matahachi
   - Soccer mom
@@ -41,7 +48,9 @@
   - Looks up to Miyamoto Musashi
 - Yagyu Sekishusai
 - Gion Toji
-  - Assassin of the yoshioka school, wanting to kill Miyamoto Musashi
+  - Assassin of the yoshioka school, wanted to kill Miyamoto Musashi
+  - Went crazy after the death of his master
+  - Died whilst attacking Miyamoto Musashi
 - Hozoin Inei
   - Old man over 80 years old
   - Many reflect Miyamoto's bloodlust, turning enemies against him
@@ -57,7 +66,7 @@
   - Takes care of otsu
 - Kamiizumi ise no kami
   - The master swordsman
-- Sasaki Kojiro
+- Ganryu Sasaki Kojiro
   - Chujo style of swordsmanship
   - Kanemaki Jisai's disciple
     - Toda seigen variation of chujo styleo
@@ -88,19 +97,36 @@
   - Disciple of Kanemaki Jisai
 - Takada Sannojo
   - 
+- Hon'Ami Kouetsu
+  - Koushitsu?
+  - Took care of Miyamoto Musashi after his fight with Yoshioka Seijuro
+  - Personal request of Tokugawa Ieyasu to sharpen his sword
+  - In order to make a katana extremely beautiful, it must not feel like a katana
+- Ogawa Ienao
+  - Kojiro broke his spirit
+  - If you put a lie against the sword, it's pointless, because you wouldn't love it
+    - Swords and lies
+
 ## Places
 - Miyamoto
   - Shinmen Takezo's hometown
   - of city of Sakushu?
 - Yoshioka School
   - Schook in Kyoto
-  - Yoshioka Sejuro
-    - Young master of the Yoshioka School
+  - Yoshioka Seijuro
+    - Talented young master of the Yoshioka School
+    - Died at the hand of Miyamoto Musashi
+    - Killed others to protect his younger brother
+    - Was burdened by the weight of the Yoshioka?
   - Yoshioka Kempo
     - Founder of the Yoshioka school
   - Yoshioka Denshichiro
     - Younger brother Seijuro
   - Ueda Ryohei
+    - Smart dude that wants to keep the Yoshioka alive
+  - Put everything into one strike
+  - Yoshioka Kenpou
+    - Friend of Itakura Katsushige
 - Hozoin Temple
   - In Kofukuji in Nara
   - Ferocious spear technique by monks
@@ -123,5 +149,13 @@
     - Wants to keep on travelling Musha Shugyo, the warriors pilgramage
 - Sangenin Temple
   - Men of the sword came to examine their souls
+- Rendaji Field
+  - The weight of the Yoshioka?
+- Rengeoin
+  - Designated spot of the duel
+- Nijou Castle
+  - Kyoto shoshidai to the north
+    - Itakura Katsushige
+
 ## Log
 Tue 12/29/2020 - Ch. 36
