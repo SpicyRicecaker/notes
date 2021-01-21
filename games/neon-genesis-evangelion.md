@@ -43,4 +43,4 @@
   - Theories
     - True freedom does not exist, because by definition not existing is freedom
     - E.g. we are bound by the laws of physics, but the laws of physics do make things pretty fun too
-    - Unlimited freedom crushes our will to do things, no?
+    - Unlimited freedom crushes our will to do things?

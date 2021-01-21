@@ -1,0 +1,31 @@
+# [Scale By The Day 2018: Bryan Cantrill, Rust and Other Interesting Things](https://www.youtube.com/watch?v=2wZ1pCpJUIM)
+- Values
+    - Positive trais you are choosing
+    - Own values will change how we make that choice
+    - Commenting on our own values relative to a different system
+    - Change when we're doing something different
+    - If community doesn't reflect values, software doesn't reflect values
+    - You can't have it all
+- Platform
+    - Values are important but in tension
+    - Want to balance all but have core principles
+    - Attracts like-minded and becomes self-reinforcing
+    - C
+        - Higher level assembly
+        - Simplicity, performance, portability, interopability
+    - C++
+        - Performance, portability, expressiveness
+- Chally
+    - For systems software, certain values hold
+        - Performance
+            - Is the root of all evil
+            - Yet the thing we demand above all else
+    - The values you build on you are dependent on 
+- The system software disconnect
+    - Divide between values held by programming languages and systems
+    - We've managed, *despite* the programming language
+- Rust
+    - Safety, parallelism, and speed
+    - Ownership, can determine when memory object is no longer in use
+    - *Power* of garbage-collected lang, *Performance* of manual memory management
+    - Highly composable, more sophisticated structs

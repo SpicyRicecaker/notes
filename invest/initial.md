@@ -1,0 +1,23 @@
+## Role of stocks
+
+- Many high tech startups require lots of money to get off their feet
+  - Thus they go public, and stocks can raise taht money
+- Other ways to gen
+  - Partnerships
+    - Can make use of multiple skillsets and financial resources
+    - General partnership
+      - Partnership agreement
+        - very comprehensive, consider every single scenario, look at partnership agreement to clarify stuff
+      - Certain tax advantages
+        - As with sole proprietorship, everything is considered as one
+        - Corporate tax is 30-40%, but individual is much lower
+      - **Unlimited liability**
+        - Creditors will pursue stuff that has the most financial resources, to get their pockets
+        - Responsible for decisions of your partner
+    - Limited partnership
+      - General partner 
+        - Responsible for day to day decisions, yet unlimited liability
+      - Limited partner 
+        - Portion of financial resources
+        - Portion of liability
+          - Not involved in day to day decisions
