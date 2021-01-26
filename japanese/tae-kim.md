@@ -43,7 +43,28 @@ Dakututen (濁点) are the double quotation marks and handakuten (半濁点) are
 ```
 
 ## Small や、ゆ、よ
+One syllable!
+```
+ぴゃ(pya) びゃ(bya) じゃ(jya) ぎゃ(gya) りゃ(rya) みゃ(mya) ひゃ(hya) にゃ(nya) ちゃ(cha) しゃ(sha) きゃ(kya)
+ぴゅ(pyu) びゅ(byu) じゅ(jyu) ぎゅ(gyu) りゅ(ryu) みゅ(myu) ひゅ(hyu) にゅ(nyu) ちゅ(chu) しゅ(shu) きゅ(kyu)
+ぴょ(pyo) びょ(byo) じょ(jyo) ぎょ(gyo) りょ(ryo) みょ(myo) ひょ(hyo) にょ(nyo) ちょ(cho) しょ(sho) きょ(kyo)
+```
 
+## Small つ
+Copies consonant of seond character to end of first
+
+## Long Vowel
+Adding あ or い or う to the end of か or き or く extends their duration
+**TODO** not sure if こう then becomes (ko u ko u) or (ko o ko o)
+
+## Katakana
 ```
-ぴゃ ぴゅ じゃ りゃ
+ン(n|only one eye nooooo)
+ワ(wa|question mark) ラ(ra|dinosaur) ヤ(ya|や) マ(ma|math) ハ(ha|hat) ナ(na|narwhal) タ(ta|tidal wave) サ(sa|sardines) カ(ka|か) ア(a|A)
+リ(ri|り) ミ(mi|rice(ch)) ヒ(hi|headless) ニ(ni|needles) チ(chi|cheerleader) シ(shi|she,smiley face) キ(ki|き) イ(i|eagle)
+ル(ru|road) ユ(yu|pirate) ム(mu|wood(ch)) フ(fu|owl) ヌ(nu|sprint freestyle) ツ(tsu|two needles pointing sharply down) ス(su|suit hanger) ク(ku|cook's hat) ウ(u|う)
+レ(re|repunzel) メ(me|mei => lamb => sacrifice) ヘ(he|hill) ネ(ne|necromancer) テ(te|telephone pole) セ(se|せ) ケ(ke|K) エ(e|engineer steel beam)
+ロ(ro|rohmen) ヨ(yo|yogurt) モ(mo|も) ホ(bo|holy) ノ(no|long, pointed nose) ト(to|totem) ソ(so|sewing needle pointing sharply down) コ(ko|corners, but not all walls) オ(o|singer)
 ```
+
+Sometimes
