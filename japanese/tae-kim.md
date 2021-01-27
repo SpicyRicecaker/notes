@@ -95,5 +95,145 @@ Sometimes ・ is used to separate katakana words
 ヴォ ウオ フォ チョ ド ト ジョ ショ
 ```
 
-## Declaring something 「だ」
-k
+## Declare state of being 「だ」
+
+Used to imply a state of being (e.g. 'am')
+
+noun`だ` , な-adjective`だ`
+
+```
+学生だ => is student
+```
+
+However, it's not required!
+
+### Negative state of being 「じゃない」
+
+noun`じゃない`, な-adjective`じゃない`
+
+```
+友達じゃない
+is not student
+```
+
+### Past state of being 「だった、じゃなかった」
+
+To say something was,
+
+noun`だった`, な-adjective`だった`
+
+```
+学生だった
+was student
+```
+
+To say something was not
+
+noun`じゃなかった`, な-adjective`じゃなかった`
+
+```
+元気じゃなかった
+was not good
+```
+
+## 「は」 topic particle
+
+Identifies the topic of a sentence
+
+topic`は`
+
+```
+アリス：ジョンは学生
+Alice: John is student
+```
+
+## 「も」 inclusive topic particle
+
+Essentially introduces a topic like は but has the added meaning of _also_
+
+Must be consistent with answer.
+
+also topic`も`
+
+```
+ボブ：アリスは学生？
+Bob: Alice is student?
+アリス：うん、トムは学生
+Alice: Yes, and Bob is also student
+```
+
+Don't use "also not", use は to represent that
+
+postive topic`は`, `でも`negative topic`は`
+
+## 「が」 identifier particle
+
+Used to identify something not necessarily specified; subject
+
+subject`が`
+
+```
+誰が学生？
+Who is (the one that is) student?
+```
+
+`が` specifies a specific trait of something (the one; the thing), while `は` is talking about the thing in general (for; about)
+
+`が` kind of always answers a silent question
+
+```
+私は学生
+Well for me, I'm student (like trying to provide helpful information after being asked who is the student)
+私が学生
+I am the one that is student (answering the question)
+```
+
+## 「な」 adjective
+
+Can be treated as noun, follows state of being conjugations
+
+```
+魚が好き
+Likes fish
+人は静か
+People are silent
+魚が好きじゃなかった
+Didn't like fish 
+```
+
+Attach before noun, with `な` in between. 
+
+```
+親切な人
+Kind person
+```
+
+Can use conjugated form as adjective
+
+```
+魚が好きは人
+Person that likes fish
+```
+
+Can use that entire object as a topic
+
+```
+魚が好きな人が好きだ
+I like people that like to eat fish >?
+```
+
+## 「い」 adjective
+
+**Always** end in 「い」. な-adjectives on the other hand, are usually pure kanji
+
+Can directly modify noun
+
+```
+おいしい食べ物
+tasty food
+```
+
+Cannot add だ to end of い-adjectives
+
+### Negative 「い」 adjective 
+
