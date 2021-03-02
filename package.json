@@ -1,0 +1,18 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "pnpm --parallel --stream dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpicyRicecaker/notes.git"
+  },
+  "author": "SpicyRicecaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpicyRicecaker/notes/issues"
+  },
+  "homepage": "https://github.com/SpicyRicecaker/notes#readme",
+  "description": "My personal website"
+}

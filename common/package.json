@@ -1,0 +1,13 @@
+{
+  "name": "@notes/common",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node main.js",
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^4.2.2"
+  }
+}
