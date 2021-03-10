@@ -1,6 +1,12 @@
 import fs from 'fs/promises';
 import path from 'path';
 
+interface FileSystemObject {
+  name: string;
+  type: 'file' | 'folder';
+  files?: FileSystemObject[];
+}
+
 // Recursively walk a directory, with the goal of building a JSON that is easy for
 // Svelte to interpret
 const getFiles = async (dir: string): Promise<string[]> => {
