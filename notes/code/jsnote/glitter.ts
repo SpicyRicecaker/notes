@@ -1,3 +1,4 @@
+// deno-lint-ignore-file
 const glitterBombTrap = () => {
   // Defensive/recon strategy
   const mark: any = {
@@ -19,11 +20,16 @@ const glitterBombTrap = () => {
     customer.returnMoney(customer.money);
   };
   () => {
+    // Make sure to add recording to package
+    mark.initTrap();
     mark.deliverFakePackage(mark.trap);
+    mark.deliverEvidenceToAuthorities();
   };
 };
 
 const scammer = async () => {
+  // Multiple scammers are connected to one supervisor, connected to multiple mules
+  // Need some way to connect all mules
   const mule: any = {};
   const scammer: any = {
     callCustomer: () => {
@@ -33,12 +39,20 @@ const scammer = async () => {
     demandRefund: () => {
       return `Yes, you must send some money back`;
     },
+
+    scam: async (customer: any) => {
+      scammer.buildEmpathy();
+      scammer.forceMistake();
+      const money = await customer.mistake();
+      return money;
+    },
   };
   const supervisor: any = {};
   mule.rentAirbnb();
-  mule.callCustomer();
-  const promise = await mule.phone.called();
-  mule.money = await promise;
+  scammer.callCustomer();
+  scammer.emailCustomer();
+  const customer = await scammer.phone.called();
+  mule.money = await scammer.scam(customer);
   supervisor.money = mule.send(mule.money);
   scammer.money = supervisor.send(supervisor.money);
 };
